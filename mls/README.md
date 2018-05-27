@@ -6,7 +6,7 @@ The notebooks on Machine Learning and Statistics have been developed and tested 
 
 1. Create a new environment by entering (or pasting) the following command at a shell prompt. **You may need to scroll right to see the whole line, which ends with "pillow".**
 ```
-conda create -n Asterics2018MLS python=3.6 pip ipython jupyter numpy scipy pandas matplotlib seaborn scikit-learn hdf5 pytables pillow
+conda create -n Asterics2018MLS python=3.6 pip ipython jupyter numpy scipy cython pandas matplotlib seaborn scikit-learn hdf5 pytables pillow
 ```
 2. Activate the new environment using (this should add "(Asterics2018MLS)" to your command prompt, as a reminder of your current environment):
 ```
