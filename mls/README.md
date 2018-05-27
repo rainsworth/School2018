@@ -2,7 +2,7 @@
 
 ## Recommended Python Environment
 
-The notebooks on Machine Learning nd Statistics have been developed and tested with the following standalone conda environment. You are encouraged to create the same environment for working with these notebooks.
+The notebooks on Machine Learning and Statistics have been developed and tested with the following standalone conda environment. You are encouraged to create the same environment for working with these notebooks.
 
 1. Create a new environment by entering (or pasting) the following command at a shell prompt. **You may need to scroll right to see the whole line, which ends with "pillow".**
 ```
